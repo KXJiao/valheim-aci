@@ -167,6 +167,10 @@
                                 {
                                     "name": "WORLD_NAME",
                                     "value": "[parameters('valheimWorldName')]"
+                                },
+                                {
+                                    "name": "VALHEIM_PLUS",
+                                    "value": "true"
                                 }
                             ],
                             "ports": "[parameters('ports')]",
