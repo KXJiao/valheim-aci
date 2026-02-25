@@ -36,7 +36,7 @@
         },
         "imageName": {
             "type": "string",
-            "defaultValue": "lloesche/valheim-server"
+            "defaultValue": "ghcr.io/community-valheim-tools/valheim-server"
         },
         "osType": {
             "type": "string",
